@@ -9,3 +9,5 @@ d. columns as "ID"  (Primary Key)
     "ADDRESS"        (VARCHAR[50])
     "EMAIL"          (VARCHAR[50])
     "GENDER"          (VARCHAR[50])
+
+ALSO edit App.config
