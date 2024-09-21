@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\bin\Debug\Contact_Info.exe.config
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\bin\Debug\Contact_Info.exe
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\bin\Debug\Contact_Info.pdb
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.Contact.resources
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.Properties.Resources.resources
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.exe
+C:\Users\Dell\source\repos\Contact_Info\Contact_Info\obj\Debug\Contact_Info.pdb
